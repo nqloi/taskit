@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Taskit.Application.csproj": {}
+  },
+  "projects": {
+    "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Taskit.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Taskit.Application.csproj",
+        "projectName": "Taskit.Application",
+        "projectPath": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Taskit.Application.csproj",
+        "packagesPath": "C:\\Users\\LoiNguyen\\.nuget\\packages\\",
+        "outputPath": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LoiNguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Taskit.Domain.csproj": {
+                "projectPath": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Taskit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Taskit.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Taskit.Domain.csproj",
+        "projectName": "Taskit.Domain",
+        "projectPath": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Taskit.Domain.csproj",
+        "packagesPath": "C:\\Users\\LoiNguyen\\.nuget\\packages\\",
+        "outputPath": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LoiNguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

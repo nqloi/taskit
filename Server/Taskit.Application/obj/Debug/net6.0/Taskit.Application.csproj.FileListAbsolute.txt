@@ -1,0 +1,12 @@
+F:\Documents\Project\Taskit\Taskit.Application\bin\Debug\net6.0\Taskit.Application.deps.json
+F:\Documents\Project\Taskit\Taskit.Application\bin\Debug\net6.0\Taskit.Application.dll
+F:\Documents\Project\Taskit\Taskit.Application\bin\Debug\net6.0\Taskit.Application.pdb
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.csproj.AssemblyReference.cache
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.AssemblyInfoInputs.cache
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.AssemblyInfo.cs
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.csproj.CoreCompileInputs.cache
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.dll
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\refint\Taskit.Application.dll
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\Taskit.Application.pdb
+F:\Documents\Project\Taskit\Taskit.Application\obj\Debug\net6.0\ref\Taskit.Application.dll

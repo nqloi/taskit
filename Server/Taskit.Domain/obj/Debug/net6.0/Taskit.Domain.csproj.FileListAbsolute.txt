@@ -1,0 +1,12 @@
+F:\Documents\Project\Taskit\Taskit.Domain\bin\Debug\net6.0\Taskit.Domain.deps.json
+F:\Documents\Project\Taskit\Taskit.Domain\bin\Debug\net6.0\Taskit.Domain.dll
+F:\Documents\Project\Taskit\Taskit.Domain\bin\Debug\net6.0\Taskit.Domain.pdb
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.csproj.AssemblyReference.cache
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.AssemblyInfoInputs.cache
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.AssemblyInfo.cs
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.csproj.CoreCompileInputs.cache
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.dll
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\refint\Taskit.Domain.dll
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\Taskit.Domain.pdb
+F:\Documents\Project\Taskit\Taskit.Domain\obj\Debug\net6.0\ref\Taskit.Domain.dll

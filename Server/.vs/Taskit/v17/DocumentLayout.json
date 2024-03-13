@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documents\\Project\\Taskit\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3253E2-DF7C-4883-BD18-E01CFD7291FF}|Taskit.Infrastructure\\Taskit.Infrastructure.csproj|f:\\documents\\project\\taskit\\server\\taskit.infrastructure\\taskit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F3253E2-DF7C-4883-BD18-E01CFD7291FF}|Taskit.Infrastructure\\Taskit.Infrastructure.csproj|solutionrelative:taskit.infrastructure\\taskit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5596EC-E663-4656-B3B9-30E2682C5264}|Taskit\\Taskit.API.csproj|f:\\documents\\project\\taskit\\server\\taskit\\controllers\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5596EC-E663-4656-B3B9-30E2682C5264}|Taskit\\Taskit.API.csproj|solutionrelative:taskit\\controllers\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5596EC-E663-4656-B3B9-30E2682C5264}|Taskit\\Taskit.API.csproj|f:\\documents\\project\\taskit\\server\\taskit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5596EC-E663-4656-B3B9-30E2682C5264}|Taskit\\Taskit.API.csproj|solutionrelative:taskit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29F008D-C7E5-49DE-8A00-E1BFE191D65A}|Taskit.Application\\Taskit.Application.csproj|f:\\documents\\project\\taskit\\server\\taskit.application\\taskit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D29F008D-C7E5-49DE-8A00-E1BFE191D65A}|Taskit.Application\\Taskit.Application.csproj|solutionrelative:taskit.application\\taskit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3253E2-DF7C-4883-BD18-E01CFD7291FF}|Taskit.Infrastructure\\Taskit.Infrastructure.csproj|f:\\documents\\project\\taskit\\server\\taskit.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3253E2-DF7C-4883-BD18-E01CFD7291FF}|Taskit.Infrastructure\\Taskit.Infrastructure.csproj|solutionrelative:taskit.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E042D7E2-2DA9-4C45-8724-3B813E530B1C}|Taskit.Domain\\Taskit.Domain.csproj|f:\\documents\\project\\taskit\\server\\taskit.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E042D7E2-2DA9-4C45-8724-3B813E530B1C}|Taskit.Domain\\Taskit.Domain.csproj|solutionrelative:taskit.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29F008D-C7E5-49DE-8A00-E1BFE191D65A}|Taskit.Application\\Taskit.Application.csproj|f:\\documents\\project\\taskit\\server\\taskit.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29F008D-C7E5-49DE-8A00-E1BFE191D65A}|Taskit.Application\\Taskit.Application.csproj|solutionrelative:taskit.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit\\Controllers\\Task.cs",
+              "RelativeDocumentMoniker": "Taskit\\Controllers\\Task.cs",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit\\Controllers\\Task.cs",
+              "RelativeToolTip": "Taskit\\Controllers\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:37:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taskit.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Infrastructure\\Taskit.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Taskit.Infrastructure\\Taskit.Infrastructure.csproj",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Infrastructure\\Taskit.Infrastructure.csproj",
+              "RelativeToolTip": "Taskit.Infrastructure\\Taskit.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T15:36:03.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taskit.Application.csproj",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Taskit.Application.csproj",
+              "RelativeDocumentMoniker": "Taskit.Application\\Taskit.Application.csproj",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Taskit.Application.csproj",
+              "RelativeToolTip": "Taskit.Application\\Taskit.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T15:36:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Taskit.Infrastructure\\Class1.cs",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Taskit.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:36:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Taskit.Domain\\Class1.cs",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Domain\\Class1.cs",
+              "RelativeToolTip": "Taskit.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:36:03.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Taskit.Application\\Class1.cs",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit.Application\\Class1.cs",
+              "RelativeToolTip": "Taskit.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:36:03.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Documents\\Project\\Taskit\\Server\\Taskit\\Program.cs",
+              "RelativeDocumentMoniker": "Taskit\\Program.cs",
+              "ToolTip": "F:\\Documents\\Project\\Taskit\\Server\\Taskit\\Program.cs",
+              "RelativeToolTip": "Taskit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:36:03.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
